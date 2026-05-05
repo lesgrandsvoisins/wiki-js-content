@@ -38,6 +38,7 @@ docs_dir = "wiki/fr"
 copyright = """
 Copyright &copy; 2026 Les Grands Voisins et les auteurs individuels
 """
+
 nav = [
   { "Agenda" = [
     "agenda.md",
@@ -503,3 +504,5 @@ alternate = [
     # { name = "French", link = "/fr/", lang = "fr" },
     { name = "한국의", link = "/ko/", lang = "ko" }
 ]
+[extra]
+generator = false

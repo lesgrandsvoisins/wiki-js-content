@@ -361,3 +361,5 @@ alternate = [
     { name = "French", link = "/fr/", lang = "fr" },
     # { name = "한국의", link = "/ko/", lang = "ko" }
 ]
+[extra]
+generator = false
