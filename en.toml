@@ -17,170 +17,27 @@ site_name = "Les Grands Voisins"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "Documentation des Grands Voisins"
+site_description = "Les Grands Voisins : The Documentation"
 
 # The site_author attribute. This is used in the HTML head element.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_author
-site_author = "Chris Mann et d'autres"
+site_author = "Les Grands Voisins, Chris Mann, et al."
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://zensical.gv.je/fr/"
-site_dir = "site/fr"
-docs_dir = "wiki/fr"
+site_url = "https://zensical.gv.je/en/"
+site_dir = "site/en"
+docs_dir = "wiki/en"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 Les Grands Voisins et les auteurs individuels
+Copyright &copy; 2026 Les Grands Voisins and individual authors
 """
-nav = [
-  { "Agenda" = [
-    "agenda.md",
-    "agenda/2026-01-06-p-um.md",
-    "agenda/2026-01-06-p-um/remerciements.md",
-  ] },
-  { "Annuaire" = [
-    "annuaire.md",
-    "annuaire/lessimonescoopfr.md",
-  ] },
-  { "Arts plastiques" = [
-    "arts-plastiques.md",
-  ] },
-  { "Association" = [
-    "association.md",
-    { "Conseils des voisins" = [
-      "association/conseils-des-voisins.md",
-      "association/conseils-des-voisins/conseildesgv25.md",
-      "association/conseils-des-voisins/conseildesgv25/cr.md",
-      "association/conseils-des-voisins/conseildesgv25/rapport-moral-2025.md",
-      "association/conseils-des-voisins/conseildesgv26.md",
-      "association/conseils-des-voisins/conseildesgv26/invitation.md",
-      "association/conseils-des-voisins/conseildesgv26/pj.md",
-      "association/conseils-des-voisins/conseildesgv26/support.md",
-    ] },
-    "association/historique.md",
-    "association/manifeste.md",
-  ] },
-  { "Blog" = [
-    "blog.md",
-  ] },
-  { "Civisme" = [
-    "civisme.md",
-    "civisme/empathie.md",
-    "civisme/empathie/2025.md",
-    "civisme/profession-empathie-nationale.md",
-    "civisme/social.md",
-  ] },
-  { "Dons" = [
-    "dons.md",
-  ] },
-  { "Numérique" = [
-    "numerique.md",
-    "numerique/comptes.md",
-    "numerique/creatif.md",
-    "numerique/interdependance.md",
-    "numerique/mecenat.md",
-    "numerique/parislenuage.md",
-    "numerique/recyclage.md",
-    "numerique/serveurs.md",
-    "numerique/serveurs/max.md",
-    { "Services" = [
-      "numerique/services.md",
-      "numerique/services/alpha.md",
-      "numerique/services/anciens.md",
-      "numerique/services/annuaire.md",
-      "numerique/services/backlog.md",
-      "numerique/services/beta.md",
-      "numerique/services/calendrier.md",
-      "numerique/services/changelog.md",
-      "numerique/services/decap.md",
-      "numerique/services/email.md",
-      "numerique/services/forgejo.md",
-      "numerique/services/ghostio.md",
-      "numerique/services/hedgedoc.md",
-      "numerique/services/homarr.md",
-      "numerique/services/jitsi.md",
-      "numerique/services/jswiki.md",
-      "numerique/services/keepass.md",
-      "numerique/services/keycloak.md",
-      "numerique/services/linkding.md",
-      "numerique/services/sftpgo.md",
-      "numerique/services/vikunja.md",
-      "numerique/services/wagtail.md",
-    ] },
-    { "Sociabilité numérique" = [
-      "numerique/sociabilite-numerique.md",
-      "numerique/sociabilite-numerique/amenagement.md",
-      "numerique/sociabilite-numerique/amenagement/centres.md",
-      "numerique/sociabilite-numerique/amenagement/partage-wifi.md",
-      "numerique/sociabilite-numerique/presentation.md",
-    ] },
-    "numerique/sujets.md",
-    "numerique/sujets/assistance.md",
-    "numerique/sujets/secrets.md",
-  ] },
-]
-
-# nav = [
-#   {"Civisme" = [
-#     {"Civisme" = "civisme.md"},
-#   "civisme/empathie.md",  
-#   "civisme/profession-empathie-nationale.md",  
-#   "civisme/social.md", 
-#   "civisme/empathie/2025.md"
-#   ]},
-#   {"Arts plastiques" = ["arts-plastiques.md"]},
-#   {"Numérique" = [
-
-#     {"Numérique" = "numerique.md"},
-#     {"Comptes @gv.je" = "numerique/comptes.md"},
-
-#     {"Services" = [
-#       "numerique/services.md",
-#       {"Key" = "numerique/services/keycloak.md"},
-#       {"Home" = "numerique/services/homarr.md"},
-#       {"Casiers" = "numerique/services/sftpgo.md"},
-#       {"Markdown" = "numerique/services/hedgedoc.md"},
-#       {"Favoris" = "numerique/services/linkding.md"},
-#       {"Visio" = "numerique/services/jitsi.md"},
-#       {"Email" = "numerique/services/email.md"},
-#       {"Doc Wiki" = "numerique/services/jswiki.md"},
-#       {"Tâches" = "numerique/services/vikunja.md"},
-#       {"Calendriers" = "numerique/services/calendrier.md"},
-#       {"Fiche Annuaire" = "numerique/services/annuaire.md"},
-#       {"Blog" = "numerique/services/ghostio.md"},
-#       {"WWW" = "numerique/services/wagtail.md"},
-#       {"Beta" = "/numerique/services/beta.md"},
-#       {"Alpha" = "/numerique/services/alpha.md"},
-#       {"Anciens" = "/numerique/services/anciens.md"},
-#       {"Backlog" = "/numerique/services/backlog.md"},
-#       {"Changelog" = "/numerique/services/changelog.md"},
-#     ],},
-#     {"Permanences" = [
-#       {"Le lundi de 12h à 19h30 à Paris 14 Alésia" = "https://blog.lesgrandsvoisins.com/salle-de-sociabilite-numerique/"},
-#       {"Le 1er et 3e jeudi de 14h à 18h00 à Paris 14 Cité du souvenir" = "https://openagenda.com/lesgrandsvoisins/events/permanence-information-cite-du-souvenir?cl=fr/"},
-#     ]},
-#     {"Serveurs" = "numerique/serveurs.md"},
-#     {"Sociabilité" = "numerique/sociabilite-numerique.md"},
-#     {"Interdépendance" = "numerique/interdependance.md"},
-#     "numerique/creatif.md",  "numerique/mecenat.md",  "numerique/parislenuage.md", "numerique/recyclage.md",  {"Sujets" = ["numerique/sujets.md", "numerique/sujets/assistance.md",  "numerique/sujets/secrets.md"]},
-#   ],},
-#   {"Association" = [{"Association" = "association.md"},
-#   {"Conseils des Voisins" = ["association/conseils-des-voisins.md", 
-#   "association/conseils-des-voisins/conseildesgv25.md", 
-#   "association/conseils-des-voisins/conseildesgv26.md"]},
-#   "association/historique.md",
-#   "association/manifeste.md",
-
-#   ]},
-#   {"Annuaire" = [{"Annuaire" = "annuaire.md"}]},
-#   {"Agenda" = [{"Agenda" = "agenda.md"}]},
-# ]
 
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -254,7 +111,7 @@ nav = [
 # Read more:
 # - https://zensical.org/docs/setup/language/
 # language = "en"
-language = "fr"
+language = "en"
 
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.

@@ -3,7 +3,7 @@ tar -xzf ../wiki*.tar.gz
 find . -name *.html -exec rm {} ';'
 mkdir fr
 mv * fr
-for i in Makefile .gitignore cleanup.sh ar en es ko
+for i in Makefile index.md cleanup.sh ar en es ko
   do
     echo $i
     mv fr/$i .
