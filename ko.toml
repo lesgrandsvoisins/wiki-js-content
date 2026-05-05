@@ -29,7 +29,7 @@ site_author = "Les Grands Voisins, Chris Mann, et al."
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://zensical.gv.je/ko/"
 site_dir = "site/ko"
-docs_dir = "wiki/ko"
+docs_dir = "work/ko"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -87,7 +87,7 @@ Copyright &copy; 2026 Les Grands Voisins and individual authors
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
 #custom_dir = "overrides"
-custom_dir = "themes/gv"
+custom_dir = "work/themes/gv"
 
 
 # With the "favicon" option you can set your own image to use as the icon
@@ -99,6 +99,8 @@ custom_dir = "themes/gv"
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
 #favicon = "images/favicon.png"
+logo = "assets/images/logo/gv/logo.png"
+favicon = "assets/images/logo/gv/logo.png"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
