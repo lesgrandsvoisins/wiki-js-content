@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Config git
 git config pull.rebase false
