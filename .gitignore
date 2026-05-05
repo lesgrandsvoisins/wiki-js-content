@@ -1,0 +1,3 @@
+wiki-*.tar.gz
+/site/*
+!/site
