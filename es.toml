@@ -87,6 +87,7 @@ Copyright &copy; 2026 Les Grands Voisins and individual authors
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
 #custom_dir = "overrides"
+custom_dir = "themes/gv"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -355,7 +356,7 @@ custom_checkbox = true
 alternate = [
     { name = "عربي", link = "/ar/", lang = "ar" },
     { name = "English", link = "/en/", lang = "en" },
-    { name = "Español", link = "/es/", lang = "es" },
+    # { name = "Español", link = "/es/", lang = "es" },
     { name = "French", link = "/fr/", lang = "fr" },
     { name = "한국의", link = "/ko/", lang = "ko" }
 ]

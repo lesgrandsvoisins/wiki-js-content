@@ -3,7 +3,7 @@ tar -xzf ../wiki*.tar.gz
 find . -name *.html -exec rm {} ';'
 mkdir fr
 mv * fr
-for i in Makefile index.md cleanup.sh ar en es ko
+for i in Makefile index.md cleanup.sh ar en es ko un
   do
     echo $i
     mv fr/$i .
@@ -12,6 +12,7 @@ for i in en fr es ko ar
   do
     echo $i
     mv $i/home.md $i/index.md
+    cp -a un/gv-static $i/gv-static
     find . -name *.md -exec sed -i "s/(\\/$i\\//(\\//" {} ';'
     cd $i
     for j in `find * -maxdepth 1 -type d `

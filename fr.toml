@@ -203,7 +203,7 @@ nav = [
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 #
-#extra_css = ["stylesheets/extra.css"]
+# extra_css = ["https://public.gv.je/static/web/gvbtn/gvbtn.css"]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
@@ -211,7 +211,8 @@ nav = [
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-#extra_javascript = ["javascripts/extra.js"]
+# extra_javascript = ["javascripts/extra.js"]
+# extra_javascript = ["javascripts/extra.js"]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
@@ -229,7 +230,7 @@ nav = [
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-#custom_dir = "overrides"
+custom_dir = "themes/gv"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -499,6 +500,6 @@ alternate = [
     { name = "عربي", link = "/ar/", lang = "ar" },
     { name = "English", link = "/en/", lang = "en" },
     { name = "Español", link = "/es/", lang = "es" },
-    { name = "French", link = "/fr/", lang = "fr" },
+    # { name = "French", link = "/fr/", lang = "fr" },
     { name = "한국의", link = "/ko/", lang = "ko" }
 ]
