@@ -243,6 +243,9 @@ custom_dir = "themes/gv"
 #
 #favicon = "images/favicon.png"
 
+logo = "assets/images/logo/gv/logo.png"
+favicon = "assets/images/logo/gv/logo.png"
+
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
 # The "language" option allows you to set the language used. This language
