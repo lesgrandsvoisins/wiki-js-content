@@ -1,8 +1,12 @@
 #!/bin/bash
 
+# Config git
+git config pull.rebase false
+
+git pull
+
 rm -Rf work
 
-git config pull.rebase false
 git submodule foreach git pull
 
 mkdir -p work
