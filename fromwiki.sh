@@ -7,7 +7,9 @@ git pull
 
 rm -Rf work
 
-git submodule foreach git pull
+git submodule update --init submodules/wiki-content/
+
+git submodule foreach git pull origin main
 
 mkdir -p work
 cp -a themes work/themes
