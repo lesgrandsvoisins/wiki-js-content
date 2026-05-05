@@ -8,9 +8,7 @@ editor: markdown
 dateCreated: 2026-01-04T10:41:19.097Z
 ---
 
-
-
-[Civisme](/civisme.md){class="civisme"} [Arts plastiques](/arts-plastiques.md){class="arts"} [Numérique](numerique.md){class="numerique"} [Association](/association.md){class="association"} [Annuaire](/annuaire.md){class="annuaire"} [Agenda](/agenda.md){class="agenda"}
+[Civisme](./civisme.md){class="civisme"} [Arts plastiques](./arts-plastiques.md){class="arts"} [Numérique](.numerique.md){class="numerique"} [Association](./association.md){class="association"} [Annuaire](./annuaire.md){class="annuaire"} [Agenda](./agenda.md){class="agenda"}
 {class="dock"}
 
 
@@ -20,11 +18,7 @@ dateCreated: 2026-01-04T10:41:19.097Z
 *J’ai une place aux Grands Voisins.*
 {.text-center}
 
-*Find your place in the Grands Voisins.*
-{.text-center}
 
-*Encuentra tu lugar.*
-{.text-center}
 
-*مكانك هنا*
-{.text-center}
+
+
