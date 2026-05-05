@@ -1,8 +1,8 @@
 ---
-title: Paris le Nuage
+title: Paris le nuage
 description: Remplacer les gafam par vos propres serveurs
 published: true
-date: 2026-02-24T14:04:02.412Z
+date: 2026-05-05T14:00:23.234Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T14:03:09.718Z

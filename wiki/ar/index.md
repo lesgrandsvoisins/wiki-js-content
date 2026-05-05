@@ -2,17 +2,28 @@
 title: مرحبًا بكم في Les Grands Voisins
 description: 
 published: true
-date: 2026-05-04T06:47:37.079Z
+date: 2026-05-05T13:39:21.161Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T11:11:36.357Z
 ---
 
+
+[الوعي المدني](./civisme.md){class="civisme"} [الفنون التشكيلية](./arts-plastiques.md){class="arts"} [التكنولوجيا الرقمية](./numerique.md){class="numerique"} [الجمعيات](./association.md){class="association"} [الدليل](./annuaire.md){class="annuaire"} [الأجندة](./agenda.md){class="agenda"}
+{class="dock"}
+
+
+
+
+
+
+
 مرحبًا بكم في Les Grands Voisins
 
-*« Les Grands Voisins sont nés à l'hôpital Saint-Vincent-de-Paul dans le 14e arrondissement à Paris, entre Port royal et les Catacombes. Nous sommes issus des failles dans le béton et dans les politiques publiques. Nous sommes au service de l'accueil de tous et croyons aux ponts entre utopie et réalité. »*  
-*\[extrait de notre* [*_déclaration de mission_*](https://www.lesgrandsvoisins.com/fr/association/mission/) *de 2017\]*
+*تأسست منظمة «Les Grands Voisins» في مستشفى سان فنسنت دي بول في الدائرة الرابعة عشرة بباريس، بين بورت رويال والكاتاكومب. لقد نشأنا من الثغرات الموجودة في البنية التحتية والسياسات العامة. نحن نعمل على استقبال الجميع ونؤمن بإقامة الجسور بين اليوتوبيا والواقع."*  
+*\[مقتطف من* [*_بيان مهمتنا_*](https://www.lesgrandsvoisins.com/fr/association/mission/) *لعام 2017\]*
 
-*Créer ou accéder à son* [*_compte ici_*](https://key.lesgrandsvoisins.com/)*.*
+*إنشاء حساب أو تسجيل الدخول إلى* [*_حسابك هنا_*](https://key.gv.je/)*.*
 
 *مكانك هنا*
+{.text-center}

@@ -2,7 +2,7 @@
 title: Serveur Max.GV.je
 description: Le serveur Max.GV.je est à l'Atelier des Grands Voisins
 published: true
-date: 2026-03-03T14:07:05.283Z
+date: 2026-05-05T12:41:27.994Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-03T14:03:32.801Z
@@ -12,13 +12,11 @@ dateCreated: 2026-03-03T14:03:32.801Z
 
 / [home](../../index.md) / [numerique](../../numerique.md) / [serveurs](../serveurs.md) / Max
 
-<span class="dock numerique">
+
   
-  - [Max.gdvoisins.com](https://Max.gdvoisins.com)
-  - [Tableau de bord GV Max](https://www.gv.je/boards/Max)
-  - [Tableau de bord Caddy Max](https://auth.max.gdvoisins.com/portal)
-  
-</span>
+[Max.gdvoisins.com](https://Max.gdvoisins.com) [Tableau de bord GV Max](https://www.gv.je/boards/Max) [Tableau de bord Caddy Max](https://auth.max.gdvoisins.com/portal)
+ {class="dock numerique minidock"}
+
 
 Le serveur Max.GV.je est à l'atelier des Grands Voisins à la place Alesia.
 

@@ -1,8 +1,8 @@
 ---
-title: Annuaire des Grands Voisins
+title: Annuaire
 description: Voici des acteurs socio-économiques qui s'affichent en lien avec l'association Les Grands Voisins
 published: true
-date: 2026-05-01T16:55:42.576Z
+date: 2026-05-05T13:50:45.060Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T10:46:58.363Z
@@ -11,6 +11,9 @@ dateCreated: 2026-01-04T10:46:58.363Z
 # Annuaire des GV
 
 / [home](./index.md) / annuaire
+
+[diapo_présentation_annuaire.pdf](/documents/annuaire/diapo_presentation_annuaire.pdf)
+{class="dock minidock annuaire"}
 
 
 ## Annuaire des voisins
@@ -37,4 +40,4 @@ Todo : add margin to left of annuaire.
 
 ## Nouvel annuaire
 
-[diapo_présentation_annuaire.pdf](/documents/annuaire/diapo_presentation_annuaire.pdf)
+[diapo_présentation_annuaire.pdf](/documents/annuaire/diapo_présentation_annuaire.pdf)

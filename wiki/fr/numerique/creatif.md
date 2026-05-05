@@ -1,8 +1,8 @@
 ---
-title: Le Numérique Créatif des Grands Voisins
+title: Numérique créatif (BPP 2022)
 description: Lauréat du Budget Participatif de Paris 2022
 published: true
-date: 2026-05-04T06:51:21.886Z
+date: 2026-05-05T14:00:13.608Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T14:06:50.702Z

@@ -2,11 +2,14 @@
 title: Partage d'une connexion box en wifi
 description: Voici comment partager une connexion fibre (SFR, Free, Bouyges, Orange) en Wifi
 published: true
-date: 2026-05-04T06:58:34.651Z
+date: 2026-05-05T12:48:55.013Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T14:36:00.191Z
 ---
+
+
+/ [home](../../index.md) / [numerique](../../numerique.md) / [sociabilité numérique](../sociabilite-numérique.md) / Aménagements / Partage Box Wifi
 
 Toute salle de sociabilité numérique a besoin d'une connexion Wifi, de même tout foyer qui veut avoir de la sociabilité numérique en son sein. Dans cette présente documentation, nous allons décrire comment partager une connexion wifi (depuis une institution, ou depuis un particulier) pour le bénéfice voisinant.
 

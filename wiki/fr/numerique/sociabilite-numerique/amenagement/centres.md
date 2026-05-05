@@ -2,13 +2,16 @@
 title: Aménagement des centres d'hébergement en numérique 
 description: Comment aménager les centres d'hébergement en numérique ?
 published: true
-date: 2026-04-29T15:51:01.859Z
+date: 2026-05-05T12:49:31.260Z
 tags: numerique
 editor: markdown
 dateCreated: 2026-04-29T15:09:20.646Z
 ---
 
 # Aménagement des centres d'hébergement en numérique 
+
+
+/ [home](../../index.md) / [numerique](../../numerique.md) / [sociabilité numérique](../sociabilite-numérique.md) / Aménagements / Centres d'hébergement
 
 Pour aménager els centres d'hébergement en numérique (centres d'hébergement, maisons de famille, etc), il convient de prendre en compte des questions d'ordre organizationnelles et techniques. La connectivité de toute personne au réseau internet peut être un levier d'intégration social et administrative nécessaire. Une connexion individuelle de 20 à 50 euros par mois pour chaque habitation peut s'avérer peu accessible pour certaines populations.
 
@@ -22,7 +25,7 @@ Si le fait de tirer une cable RJ45 n'est pas commode, des solutions de relai wif
 
 ## Partage de box ou création de réseau "invité"
 
-Voir [partage-wifi](/numerique/sociabilite-numerique/amenagement/partage-wifi)
+Voir [partage-wifi](./partage-wifi.md)
 
 ## Contact
 

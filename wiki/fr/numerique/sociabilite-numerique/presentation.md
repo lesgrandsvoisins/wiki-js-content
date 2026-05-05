@@ -2,15 +2,17 @@
 title: Présentation des salles de sociabilité numérique
 description: Voici ce qui sont les salles de sociabilité numérique
 published: true
-date: 2026-05-04T06:54:28.563Z
+date: 2026-05-05T12:51:30.771Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T14:20:28.810Z
 ---
 
-[/fr/numerique/sociabilite-numerique/amenagement/partage-wifi](./amenagement/partage-wifi.md)
 
-[/fr/numerique/sociabilite-numerique/amenagement/centres](./amenagement/centres.md)
+/ [home](../../index.md) / [numerique](../../numerique.md) / [sociabilité numérique](../sociabilite-numérique.md) / Présentation
+
+[amenagement](./amenagement.md) [partage-wifi](./amenagement/partage-wifi.md) [centres](./amenagement/centres.md)
+{class="dock numerique minidock"}
 
 Participez à ces ateliers conviviaux d’entraide numérique  
 pour vous-même ou pour votre organisation. Vous pouvez y avancer vos projets et vos savoir-faire aussi en aidant d’autres avec les leurs.

@@ -1,8 +1,8 @@
 ---
-title: Salles de sociabilité numérique des Grands Voisins
+title: Salles de sociabilité numérique
 description: 
 published: true
-date: 2026-03-01T12:03:51.300Z
+date: 2026-05-05T13:59:25.623Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T11:02:52.057Z
@@ -11,6 +11,9 @@ dateCreated: 2026-01-04T11:02:52.057Z
 # Salles de sociabilité numérique
 
 / [home](../index.md) / [numerique](../numerique.md) / Sociabilité numérique
+
+[l'animation régulière des salles](./sociabilite-numerique/presentation.md) [l'aménagement des salles](./sociabilite-numerique/amenagement.md)
+{class="dock numerique minidock"}
 
 Voici une **présentation** de [l'animation régulière des salles](./sociabilite-numerique/presentation.md) de sociabilité numérique.
 

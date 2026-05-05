@@ -1,8 +1,8 @@
 ---
-title: Arts Plastiques des Grands Voisins
+title: Arts plastiques
 description: 
 published: true
-date: 2026-03-01T12:07:57.488Z
+date: 2026-05-05T13:51:13.966Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T11:30:11.874Z

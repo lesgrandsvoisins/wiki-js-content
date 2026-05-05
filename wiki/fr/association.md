@@ -1,8 +1,8 @@
 ---
-title: Association de loi 1901 Les Grands Voisins
-description: Tout sur l'association
+title: Association
+description: Tout sur l'association les Grands Voisins
 published: true
-date: 2026-03-01T12:10:03.066Z
+date: 2026-05-05T13:51:57.790Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T10:45:33.012Z
@@ -13,8 +13,7 @@ dateCreated: 2026-01-04T10:45:33.012Z
 / [home](./index.md) / association
 
 [conseils-des-voisins](./association/conseils-des-voisins.md)  [historique](./association/historique.md)  [manifeste](./association/manifeste.md) 
-{class="dock associaton minidock}
-
+{class="dock association minidock}
 
 ## Conseils des voisins
 

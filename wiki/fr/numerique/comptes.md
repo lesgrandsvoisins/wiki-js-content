@@ -1,8 +1,8 @@
 ---
-title: Comptes utilisateurs unifiés @GV.je
+title: Comptes unifiés @GV.je
 description: Voici nos comptes unifiés et notre politique pour établir les identifiants.
 published: true
-date: 2026-03-17T09:50:44.830Z
+date: 2026-05-05T14:01:38.529Z
 tags: numerique, compte
 editor: markdown
 dateCreated: 2026-03-17T09:26:17.165Z
@@ -10,6 +10,7 @@ dateCreated: 2026-03-17T09:26:17.165Z
 
 # Politique de génération des identifiants (@gv.je)
 
+/ [home](../index.md) / [Numérique](../numerique.md) / comptes @gv.je
 
 Chaque compte reçoit un **identifiant unique et permanent** utilisé pour la connexion.\
 Cet identifiant est technique et ne peut pas être modifié.

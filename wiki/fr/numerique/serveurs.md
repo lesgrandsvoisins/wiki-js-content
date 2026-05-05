@@ -1,8 +1,8 @@
 ---
-title: Les Serveurs des Grands Voisins
+title: Serveurs des GV
 description: Voici nos serveurs informatiques libres, ceux gérés par l'association Les Grands Voisins et ceux géré par les Grands Voisins. 
 published: true
-date: 2026-03-03T15:30:23.315Z
+date: 2026-05-05T14:01:21.061Z
 tags: numerique
 editor: markdown
 dateCreated: 2026-03-03T13:40:47.326Z

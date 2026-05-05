@@ -2,7 +2,7 @@
 title: Conseils des Voisins
 description: Les Grands Voisins essayent de se réunir plusieurs fois par année pour construire ensemble
 published: true
-date: 2026-03-01T12:11:25.443Z
+date: 2026-05-05T13:14:42.353Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-21T18:33:52.310Z
@@ -13,7 +13,8 @@ dateCreated: 2026-01-21T18:33:52.310Z
 / [home](../index.md) / [association](../association.md) / Conseils des voisins
 
 [conseildesgv25](./conseils-des-voisins/conseildesgv25.md) [conseildesgv26](./conseils-des-voisins/conseildesgv26.md) 
-{class="dock associaton minidock}
+{class="dock association minidock}
+
 
 Les Conseils des voisins sont des moments formels de comptes-rendus et de décisions. Pour autant, nous faisons aussi des efforts positifs d'incorporer les avis de toutes et de tous, même sans forcément venir aux Conseils.
 

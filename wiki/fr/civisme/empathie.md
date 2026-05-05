@@ -2,7 +2,7 @@
 title: Profession d'empathie nationale le 27 juin
 description: La journée « Profession d'empathie nationale » est l'occasion de la remise de prix Annette Monod-Leiris pour excellence en travail social et mémoire de Valentin Francy
 published: true
-date: 2026-03-29T12:57:59.625Z
+date: 2026-05-05T13:03:07.922Z
 tags: civisme
 editor: markdown
 dateCreated: 2026-03-16T20:20:59.936Z
@@ -10,7 +10,7 @@ dateCreated: 2026-03-16T20:20:59.936Z
 
 # Profession d'empathie nationale
 
-/ [home](../home.md) / Civisme / Empathie
+/ [home](../index.md) / [civisme](../civisme.md) / Empathie
 
 [Announce 2025](./civisme/empathie/2025.md)
 {class="dock civisme minidock}

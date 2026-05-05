@@ -1,8 +1,8 @@
 ---
-title: Les Grands Voisins - EN
+title: Les Grands Voisins
 description: 
 published: true
-date: 2026-05-04T06:49:40.225Z
+date: 2026-05-05T13:38:52.775Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T10:20:53.620Z
@@ -10,13 +10,13 @@ dateCreated: 2026-01-04T10:20:53.620Z
 
 Welcome to Les Grands Voisins
 
-*« Les Grands Voisins sont nés à l'hôpital Saint-Vincent-de-Paul dans le 14e arrondissement à Paris, entre Port royal et les Catacombes. Nous sommes issus des failles dans le béton et dans les politiques publiques. Nous sommes au service de l'accueil de tous et croyons aux ponts entre utopie et réalité. »*  
-*\[extrait de notre* [*_déclaration de mission_*](https://www.lesgrandsvoisins.com/fr/association/mission/) *de 2017\]*
+[Civism](./civisme.md){class="civisme"} [Plastic arts](./arts-plastiques.md){class="arts"} [Digital](./numerique.md){class="numerique"} [Association](./association.md){class="association"} [Directory](./annuaire.md){class="annuaire"} [Events](./agenda.md){class="agenda"}
+{class="dock"}
 
-*Créer ou accéder à son* [*_compte ici_*](https://key.lesgrandsvoisins.com/)*.*
+*“Les Grands Voisins was founded at Saint-Vincent-de-Paul Hospital in Paris’s 14th arrondissement, between Port Royal and the Catacombs. We emerged from the cracks in the concrete and in public policy. We are dedicated to welcoming everyone and believe in building bridges between utopia and reality.”*  
+*\[excerpt from our* [*_mission statement_*](https://www.lesgrandsvoisins.com/fr/association/mission/) *from 2017\]*
+
+*Create or log in to your* [*_account here_*](https://key.gv.je/)*.*
 
 *Find your place in the Grands Voisins.*
-
-*Encuentra tu lugar.*
-
-*مكانك هنا*
+{.text-center}
