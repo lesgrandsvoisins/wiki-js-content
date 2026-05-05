@@ -7,70 +7,36 @@ tags:
 editor: markdown
 dateCreated: 2026-01-23T11:23:53.700Z
 ---
-
 # Web apps des GV.je (Services)
 
 / [home](../index.md) / [numerique](../numerique.md) / services
 
-<span class="dock numerique">
-  
-## Les applications
+[Key](./keycloak.md) [Home](./homarr.md) [Casiers](./sftpgo.md) [Markdown](./hedgedoc.md) [Favoris](./linkding.md)
+{class="dock numerique minidock"}
 
-* [Visioconférence meet. lgv .info](./services/jitsi.md)
-* [Tableau de bord gv .je](./services/homarr.md)
-* [Casiers électroniques sftpgo .gv .je](./services/sftpgo.md)
-* [Markdown sur hedgedoc. gv .je](./services/hedgedoc.md)
-* [Favoris sur linkding. ... .com](./services/linkding.md)
+[Visio](./jitsi.md) [Email](./email.md) [Doc Wiki](./jswiki.md) [Tâches](./vikunja.md) [Calendriers](./calendrier.md)
+{class="dock numerique minidock"}
 
----
-  
-* [Gestion et création de compte key .gv .je](./services/keycloak.md)
-* [Documentation sur wiki. grandsvoisins .org](./services/jswiki.md)
-* [Email](./services/email.md)
-* [Vos fiches d'annuaire](./services/annuaire.md)
-* [Tâches sur vikunja .gv .je](./services/vikunja.md)
+[Fiche Annuaire](./annuaire.md) [Blog](./ghostio.md) [WWW](./wagtail.md)
+{class="dock numerique minidock"}
 
----
-  
+[Beta](./beta.md) [Alpha](./alpha.md) [Anciens](./anciens.md) [Backlog](./backlog.md) [Changelog](./changelog.md)
+{class="dock numerique minidock"}
 
-* [Blog sur blog. lesgrandsvoisins .com](./services/ghostio.md)
-* [Site Web www. lesgrandsvoisins .com avec Wagtail](./services/wagtail.md)
-
-## Bêta
-
-* [Calendriers Radicale](./services/calendrier.md)
-* [Mots de passe KeePass](./services/keepass.md)
-* [Développement Gitea](./services/gitea.md)
-  
-## Alpha
-  
-* [Gestion de contenu Decap](./services/decap.md)
-  
-
-## Anciens
-  
-* [Vaultwarden maux de passe](./services/vaultwarden.md)
-  
-## Traveaux
-  
-- [Backlog: Choses à faire](./services/backlog.md)
-- [Changelog: choses faites](./services/changelog.md)
-  
-</span>
 
 ---
 
 Voici les différents services que nous proposons.
 
-* [Annuaire](./services/annuaire.md)
-* [Email](./services/email.md)
+* [Annuaire](./annuaire.md)
+* [Email](./email.md)
   * Webmail
   * IMAP
   * SMTP
 * Casiers électroniques
-  * [SFTPgo sur sftpgo.gv.je](./services/sftpgo.md)
+  * [SFTPgo sur sftpgo.gv.je](./sftpgo.md)
   * CopyParty sur cp.roses.gv.je et public.roses.gdvoisins.com
-* [Calendrier](./services/calendrier.md)
+* [Calendrier](./calendrier.md)
 * Tableau de bord www.gv.je (Homarr)
 * Gestion de compte key.gv.je (Keycloak)
 * Wiki de la documentation sur wiki.grandsvoisins.org (JSWiki)
@@ -78,7 +44,7 @@ Voici les différents services que nous proposons.
 * Visioconférence meet.lgv.info (Jitsi)
 * Tâches sur task.lesgrandsvoisins.com (Vikunja)
 * Gestion de liens favoris linkding.lesgrandsvoisins.com (Linkding)
-* [Mots de passe KeePass](./services/keepass.md)
+* [Mots de passe KeePass](./keepass.md)
   * Nous n'utilisons plus vw.gv.je (Vaultwarden)
 * Dons avec Paypal
 * Blog des Grands Voisins blog.lesgrandsvoisins.com (Ghostio)
