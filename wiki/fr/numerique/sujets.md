@@ -10,6 +10,9 @@ dateCreated: 2026-03-23T10:07:20.362Z
 
 # Sujets du numérique 
 
+[assistance](./sujets/assistance.md)  [secrets](./sujets/secrets.md) 
+{class="dock numerique"}
+
 secrets
 
 casiers
