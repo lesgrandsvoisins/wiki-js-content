@@ -12,9 +12,12 @@ dateCreated: 2026-01-04T10:57:44.711Z
 
 / [home](./index.md) / Civisme
 
+[empathie](./civisme/empathie.md)  [profession-empathie-nationale](./civisme/profession-empathie-nationale.md)  [social](./civisme/social.md)
+{class="dock civisme minidock}
+
 ## Profession d'Empathie Nationale Le 27 juin de chaque année
 
-[Announce 2025](/civisme/empathie/2025)
+[Announce 2025](./civisme/empathie/2025.md)
 
 
 ## Activité Civisme des Grands Voisins en général

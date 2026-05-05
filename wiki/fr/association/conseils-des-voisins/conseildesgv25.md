@@ -11,6 +11,9 @@ dateCreated: 2026-01-22T08:47:26.122Z
 
 # 25e Conseil des Grands Voisins le 19 juillet 2025 
 
+[cr](./conseildesgv25/cr.md)  [rapport-moral-2025](./conseildesgv25/rapport-moral-2025.md) 
+{class="dock association minidock}
+
 de 15h à 16h15 à 32 rue Saint Yves 75014 Paris et par visio
 
 Voir le dossier ici:  

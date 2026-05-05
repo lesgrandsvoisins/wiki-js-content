@@ -12,6 +12,9 @@ dateCreated: 2026-01-04T10:44:36.686Z
 
 / [home](./index.md) / agenda
 
+[2026-01-06-p-um](./agenda/2026-01-06-p-um.md) 
+{class="dock agenda minidock}
+
 ## Permanence le lundi de 12h à 19h30
 
 *en personne: 93 ave. du Gén. Leclerc 75014 Paris*  

@@ -10,6 +10,11 @@ dateCreated: 2026-03-16T20:20:59.936Z
 
 # Profession d'empathie nationale
 
+/ [home](../home.md) / Civisme / Empathie
+
+[Announce 2025](./civisme/empathie/2025.md)
+{class="dock civisme minidock}
+
 La journée « Profession d’Empathie Nationale » se déroule le 27 juin à Paris. Un jury y met en valeur les qualités des bénévoles et des travailleurs sociaux à travers un prix Annette Monod-Leiris. C'est aussi le jour d'anniversaire de Valentin Francy, un jeune homme dont la mémoire nous conduit au sens de l'optimisme civique nous donne de la force. 
 
 ## Jury du prix Annette Monod-Leiris

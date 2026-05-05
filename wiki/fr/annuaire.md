@@ -37,4 +37,4 @@ Todo : add margin to left of annuaire.
 
 ## Nouvel annuaire
 
-[diapo_présentation_annuaire.pdf](/documents/annuaire/diapo_présentation_annuaire.pdf)
+[diapo_présentation_annuaire.pdf](/documents/annuaire/diapo_presentation_annuaire.pdf)

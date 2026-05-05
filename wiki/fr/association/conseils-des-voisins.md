@@ -12,6 +12,9 @@ dateCreated: 2026-01-21T18:33:52.310Z
 
 / [home](../index.md) / [association](../association.md) / Conseils des voisins
 
+[conseildesgv25](./conseils-des-voisins/conseildesgv25.md) [conseildesgv26](./conseils-des-voisins/conseildesgv26.md) 
+{class="dock associaton minidock}
+
 Les Conseils des voisins sont des moments formels de comptes-rendus et de décisions. Pour autant, nous faisons aussi des efforts positifs d'incorporer les avis de toutes et de tous, même sans forcément venir aux Conseils.
 
 

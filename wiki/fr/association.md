@@ -12,6 +12,10 @@ dateCreated: 2026-01-04T10:45:33.012Z
 
 / [home](./index.md) / association
 
+[conseils-des-voisins](./association/conseils-des-voisins.md)  [historique](./association/historique.md)  [manifeste](./association/manifeste.md) 
+{class="dock associaton minidock}
+
+
 ## Conseils des voisins
 
 [**/fr/association/conseils-des-voisins**](./association/conseils-des-voisins.md)

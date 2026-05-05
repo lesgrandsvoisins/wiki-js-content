@@ -22,7 +22,7 @@ Nos **permanences** : [à Paris 14e (Alésia) **le lundi** de 12h à 19h30](http
 
 Nos services pour remplacer Google : **tableau de bord** [**gv.je** ici](https://www.gv.je) | **documentation** des [**services** (gérés par GV.je) ici](./numerique/services.md) | créer ou modifier **votre compte** [**key.gv.je** ici](https://key.gv.je/realms/master/account). 
 
-Les **salles de** [**sociabilité numérique**](./numerique/sociabilite-numerique) et les **services informatiques libres** [**Paris le nuage**](./numerique/services.md) (chez vous ou par nos soins) issus du lauréat Budget participatif de Paris 2022 [numérique créatif des Grands Voisins.](./numerique/creatif.md)
+Les **salles de** [**sociabilité numérique**](./numerique/sociabilite-numerique.md) et les **services informatiques libres** [**Paris le nuage**](./numerique/services.md) (chez vous ou par nos soins) issus du lauréat Budget participatif de Paris 2022 [numérique créatif des Grands Voisins.](./numerique/creatif.md)
 
 Notre philosophie d'[interdépendance numérique](./numerique/interdependance.md) et nos articles de blog sur le numérique
 
