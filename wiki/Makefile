@@ -1,3 +1,0 @@
-wiki:
-	source cleanup.sh
-
