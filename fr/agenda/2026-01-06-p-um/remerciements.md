@@ -1,0 +1,142 @@
+---
+title: Remericiements P-UM Inauguration Montrouge
+description: 
+published: true
+date: 2026-05-04T06:56:01.554Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-05T08:14:34.099Z
+---
+
+# **Remerciements**
+
+[P-um.net](http://p-um.net/) / Association P-um Corée / Byeon Jeong won, présidente de l’association
+
+En lisant lentement ce texte que vous avez écrit, j’ai senti renaître au plus profond de mon cœur des sentiments que j’avais oubliés. Il n’est certainement pas facile d’observer avec autant de sincérité la vie d’un individu et de la retracer en suivant le fil du temps. Pourtant, vous avez su saisir avec délicatesse ma longue solitude, mes joies, mes préoccupations, mes choix, et même le sens de la solidarité qui m’a guidé tout au long de cette vie. Vos mots ont su mettre en lumière avec une précision étonnante des aspects de ma personnalité que je n’avais moi-même pas su expliquer clairement.
+
+En particulier, lorsque j’ai trouvé l’équilibre de mon esprit grâce à l’artisanat, lorsque j’ai vécu en tant qu’étrangère, et même lorsque j’ai essayé de ne pas ignorer la souffrance des autres, j’ai réalisé que le chemin que j’avais parcouru pouvait être perçu avec tant de tendresse par quelqu’un d’autre. Cela m’a déjà beaucoup réconfortée et m’a même donné l’impression que mon existence était à nouveau solide.
+
+Votre texte n’a ni jugé ni embelli ma vie, mais a simplement embrassé les motifs uniques du temps que j’ai traversé. Il m’est difficile d’exprimer à quel point cela m’a profondément émue. Vos mots m’ont ramenée à ma place et m’ont fait redécouvrir des significations que j’avais oubliées.
+
+Ce texte n’est pas un simple hommage, mais plutôt comme la main chaleureuse d’un ami qui a traversé une longue période à mes côtés. Je vous remercie sincèrement de m’avoir compris avec tant de sincérité. À l’avenir, ce texte restera pour moi une petite lumière qui m’éclairera longtemps.
+
+## **1\. Quand l’artisanat devient elle.**
+
+Je l’ai rencontrée pour la première fois dans le cadre d’un projet collaboratif entre le tissage traditionnel coréen et la marque française Codali, afin de traduire en français un poème destiné à être intégré à l’œuvre artisanale « Le sac qui contient le bonheur ». Ce poème était une brève réflexion esthétique sur la vie, écrite par une mère à l’intention de sa fille quadragénaire.
+
+Elle a été particulièrement touchée par le flux émotionnel de ce poème et m’a demandé s’il existait d’autres textes similaires. J’ai intuitivement senti qu’elle ne se contentait pas de traduire ces poèmes, mais qu’elle les absorbait avec la sensibilité d’une mère et d’une fille.
+
+Au fil de nos échanges, j’ai pu entrer en contact avec l’ordre intérieur qui soutenait sa vie. Et j’ai également compris que les objets abstraits que sont les mots et les objets matériels que sont les objets artisanaux reflétaient le récit de sa longue solitude. L’objet appelé « poche », né de la rencontre entre la structure du bojagi et celle du sac à main, est peu à peu devenu un objet reflétant son for intérieur, à mesure que ses émotions s’y immisçaient, et s’est imposé comme un signifiant condensant ses émotions.
+
+Cette pochette contient les poèmes français qu’elle a traduits. Je pense que cette traduction n’est pas une simple conversion linguistique, mais une « variation » dans laquelle ses expériences de vie et ses émotions sont intervenues.
+
+L’œuvre artisanale qui orne la couverture de cette brochure, et qui est désormais devenue son objet, n’était initialement prévue qu’en cinq exemplaires. Mais j’en ai fabriqué un supplémentaire pour elle, afin qu’elle puisse le garder près d’elle. Ces petits objets, qui existent dans des espaces différents et dans des contextes différents, sont devenus en eux-mêmes un réseau d’archives artisanales.
+
+Elle et moi nous sommes rencontrées dans le cadre d’une activité visant à transmettre à la génération suivante une tradition qui s’estompe peu à peu. Je pense que la tradition est un processus de prise de conscience et de transmission, et que ma relation avec elle s’inscrit dans cette dynamique.  
+Sur le chemin qui mène à la rencontre et à la séparation, je veux comprendre dans mon cœur le langage de celle qui marche un pas devant moi.
+
+Aujourd’hui, alors que j’écris ces lignes pour elle, je me sens particulièrement rassurée et entière, car elle est là, à une distance qui me permet de m’appuyer tranquillement sur elle chaque fois que j’ai besoin de la sagesse de la vie. Pour moi, elle est plus qu’un mentor, elle est un repère esthétique qui éclaire le sens de ma vie.
+
+À Vincent Ahn et Park A-reum, qui ont tendu la main à celle qui était toujours en queue de peloton dans la hiérarchie de l’empathie, et qui ont marché à ses côtés, je leur adresse mes sentiments de profonde amitié et de solidarité. Pendant que j’écris ces lignes, je tiens à noter que la musique de Vincent An et l’art de Park A-reum m’ont également permis de revoir certains aspects de moi-même.
+
+## **2\. En lui rendant hommage**
+
+Si je devais parler de sa vie à quelqu’un, je voudrais avant tout mentionner le fait qu’elle a traduit en français les romans fleuves des Monts Taebaek et Arirang. Ce roman fleuve en 22 volumes raconte comment des dizaines de milliers de vies ont été genocidés par l’État lors de la division de la péninsule coréenne.  
+Le fait qu’elle ait traduit cette œuvre illustre parfaitement sa philosophie de vie, qui consistait à porter à la fois la souffrance collective et les blessures individuelles.
+
+La Chaîne des Monts Taebaek traite de front la réalité des sacrifices civils survenus lors du processus de division de la péninsule coréenne en deux États, depuis la libération en 1945 jusqu’à la guerre de Corée en 1953, en passant par la période de l’administration militaire américaine, l’incident du 3 avril à Jeju et l’incident de Yeosu. L’œuvre se déroule principalement à Beolgyo et Boseong, dans la province de Jeolla, ainsi que dans la région du mont Jiri, zone d’activité des partisans.
+
+Le titre « La chaîne des Monts Taebaek » ne désigne pas tant un cadre géographique spécifique qu’un symbole archétypal unissant l’ensemble du peuple coréen, à l’image d’une immense chaîne de montagnes traversant la péninsule et reliant le nord et le sud, et englobant toute l’histoire nationale.
+
+Le roman dépeint la division rapide de la Corée du Sud entre les idéologies communiste et capitaliste, dans le contexte de la réorganisation de l’ordre mondial autour des États-Unis et de l’Union soviétique immédiatement après la libération. Cependant, le peuple de l’époque, qui ne comprenait pas clairement ces idéologies, a été pris dans la violence de l’époque, ce qui a entraîné une terrible guerre civile au sein de la communauté. La série Taebaek Mountain Range dépeint en dix volumes cette tragédie, ses origines historiques et la façon dont elle a laissé une blessure profonde dans la société coréenne.
+
+Arirang est un roman fleuve en 12 volumes qui retrace de manière multidimensionnelle la réalité qui s’est abattue sur la péninsule coréenne, principalement pendant la période de l’occupation japonaise. Partant de la vie du peuple après le mouvement paysan Donghak, il retrace dans un même élan les bouleversements qui ont suivi : le projet de recensement foncier, l’effondrement de l’économie rurale, le développement du mouvement indépendantiste et la guerre du Pacifique.
+
+La plaine de Jeolla, théâtre des exactions les plus extrêmes et des résistances les plus farouches, est le lieu où s’accumulent la souffrance, la perte, la colère et la volonté de survivre qui forment le sentiment collectif qui traverse l’œuvre.
+
+Le titre « Arirang » dépasse le simple nom d’une chanson folklorique pour devenir un symbole évoquant le destin et la mémoire collective du peuple. Il résume la manière dont le peuple a accumulé l’énergie de la résistance et survécu à la violence laissée par l’impérialisme japonais.
+
+Cette œuvre est à la fois un témoignage littéraire de la tragédie de la période coloniale japonaise et un récit qui ravive les blessures gravées dans l’histoire moderne. C’est un roman fleuve qui capture la violence structurelle laissée par la domination coloniale et la mémoire de survie du peuple. Elle fait également allusion à l’histoire qui a suivi la libération, marquée par la guerre et la division, et révèle les cicatrices continues de l’histoire moderne de la Corée.
+
+Byeon Jeong won a étudié la littérature française et l’enseignement du français à l’université féminine Ewha il y a 50 ans, puis a enseigné le français au lycée affilié à l’université Ewha. Avant de partir étudier à Paris, elle a acquis une expérience professionnelle au sein du service de coopération technique du ministère du Travail, puis a été la première femme coréenne à obtenir un diplôme de l’Institut international d’administration publique (IIAP) à Paris en tant que boursière du gouvernement français (1976). Elle a également suivi un DEA à l’université Paris Sorbonne Nouvelle sur « La pensée de Simone Weil», accumulant ainsi une brillante carrière universitaire.
+
+Le couple Byeon Jeong won et Georges Ziegelmeyer a remporté à l’unanimité le prix « Les Mots d’Or » dans la catégorie « Découverte d’histoire récente», décerné par l’Association pour la promotion du français (APFA) et parrainé par le Cabinet du Premier ministre français et l’Organisation internationale de la francophonie (OIF). (2008).
+
+## **3\. Elle absorbe la douleur des autres**
+
+À l’époque où elle s’est installée en France, la Corée était un pays pratiquement inconnu à Paris. Dans ce contexte, pour une femme originaire de Corée, s’imposer comme intellectuelle dans la société française revenait à devoir reconstruire son identité dans un environnement culturel étranger.
+
+Elle était déjà une éducatrice qualifiée, formée dans la tradition intellectuelle coréenne, mais à Paris, elle devait tout prouver à nouveau. Le fossé qu’elle a connu n’était pas seulement une difficulté sociale, mais s’accompagnait d’un fardeau mental qui la poussait à remettre en question les fondements mêmes de son existence. Néanmoins, le fait qu’elle n’ait pas perdu sa motivation à élargir son univers intellectuel signifie qu’elle a surmonté la solitude cachée qui l’habitait afin de grandir en supportant elle-même le conflit entre la réalité et l’idéal.
+
+Sa traduction de Les Monts Taebaek et « Arirang » n’était pas un simple choix d’œuvres.  
+Ce choix était motivé par une éthique du deuil visant à faire entendre au monde extérieur la voix de ceux qui avaient péri sous la violence d’État. En même temps, c’était aussi le sens des responsabilités d’une intellectuelle qui voyait clairement que la tragédie de la péninsule coréenne n’était pas seulement un problème interne, mais le résultat d’une structure de violence historique mondiale formée par l’agression impérialiste et l’ordre de la guerre froide.
+
+Traduire dans une autre langue la douleur que porte la société coréenne, c’était aussi faire remonter à la surface les aspects les plus sombres de l’histoire moderne et contemporaine de la Corée, et c’était aussi demander à la communauté internationale de se pencher sur les causes de la division de la péninsule coréenne.
+
+Au sein de la communauté diasporique parisienne, elle a mis son talent au service de l’enracinement de la culture et de la langue coréennes auprès des deuxième et troisième générations, et a été un soutien important pour les immigrants vivant avec une identité divisée.
+
+La question des adoptions à l’étranger, à laquelle elle s’est particulièrement intéressée, montre qu’elle se concentre sur la souffrance humaine au-delà des sphères individuelles et collectives.
+
+Depuis 1950, plus de 250 000 enfants coréens ont été envoyés à l’étranger dans le cadre de l’adoption internationale. Environ 50 000 d’entre eux ont été adoptés en Europe, dont près de 15 000 en France. Ces chiffres ne sont pas de simples statistiques, mais la souffrance persistante d’aujourd’hui.
+
+Elle n’a cessé de souligner que la fracture identitaire, la perte des origines et les sentiments complexes envers le pays que ressentent les personnes adoptées ne sont pas des problèmes qui doivent être supportés par les individus, mais qui doivent être assumés par la société dans son ensemble, et que l’État, en tant que partie responsable de la violence, ne doit pas se dérober à ses responsabilités.
+
+Son attitude, qui consiste à ne pas reléguer la souffrance d’autrui à la périphérie, mais à la placer au centre de la communauté, dépasse la simple éthique individuelle et nous amène à nous interroger sur le type de société vers lequel nous devons tendre.
+
+Bien qu’elle ait passé la majeure partie de sa vie à Paris, elle a vécu presque toute sa vie avec une identité franco coréenne. Ce mot « étrangère » a également signifié pour elle une tension constante et  
+subtile tout au long de sa vie. En effet, lorsqu’elle s’est intéressée aux blessures et à la douleur des groupes ou des individus, tant en Corée qu’à Paris, indépendamment de sa condition de membre de la classe privilégiée, elle s’est elle-même retrouvée incluse dans l’horizon de cette souffrance.
+
+## **4 Le temps artisanal qui médiatise l’existence**
+
+Les objets ne stockent pas eux-mêmes la mémoire. Ce qui leur confère le temps et le sens, c’est la perception humaine qui les contemple, l’expérience accumulée et le temps qui s’écoule entre les deux.  
+La valeur des objets découle davantage du processus par lequel ils s’intègrent dans la vie humaine que des propriétés intrinsèques de la matière elle-même. En d’autres termes, les objets n’acquièrent leur sens que dans le cadre de relations.
+
+Les objets de Byeon Jeong won se divisent également en deux courants dans cette structure de mémoire relationnelle. Les uns sont entrés dans sa vie sous la forme de cadeaux offerts par d’autres personnes, les autres sont ceux qu’elle a elle-même choisis et collectionnés. Bien qu’ils soient arrivés par des voies différentes, ces objets finissent par former une émotion profonde et un sentiment unifié dans sa vie.
+
+Au cours du demi-siècle qu’elle a passé à l’étranger, la broderie a été pour elle un moyen de trouver son équilibre intérieur. La simple manipulation de l’aiguille et du fil était une sorte de pratique qui, accomplie par ses mains, absorbait le temps et constituait en même temps un espace de méditation.  
+La broderie était pour elle un mode de réflexion, un lieu psychologique où apaiser sa solitude, une structure intime qui lui permettait de supporter le silence et la solitude que les mots ne pouvaient exprimer.
+
+Parallèlement, les objets offerts par ses connaissances pendant son séjour à l’étranger, tels que des broderies orientales, des cadres de paravents, des peintures orientales et de petits objets, ont acquis une autre signification. Ils ont permis de recentrer son identité, qui devait toujours être celle d’une étrangère, entre son identité de diaspora et son identité coréenne. Ils étaient des médiateurs physiques et émotionnels qui la ramenaient à sa « place » en évoquant le souvenir de la Corée, située à 9 000 km de là.
+
+Lorsque elle m’a envoyé les images de sa collection, je les ai interprétées non pas comme une simple liste, mais comme des « archives d’objets » préservant le flux subtil de sa vie et de ses souvenirs. En regardant chaque image, les moments qu’elle avait partagés avec ces objets défilèrent comme des tableaux. Ces scènes se sont transformées en langage, et ce langage a été retissé en un récit entourant son existence.
+
+Les objets acquièrent une temporalité au moment où ils rencontrent l’humain. À travers eux, nous perpétuons nos souvenirs, nous évoquons le passé et, ce faisant, nous confirmons la continuité de notre existence.  
+Les objets sont des lieux où se concentrent les souvenirs, ils accueillent notre vie tout en la reflétant.
+
+## **5\. Toute relation a une fin**
+
+Se séparer d’un objet n’est pas simplement une question de tri des restes de la consommation quotidienne, mais une pratique transformatrice qui consiste à replacer dans un nouveau contexte la culture matérielle qui a constitué la vie d’un individu. Plus un objet a été longtemps lié à la vie de son propriétaire, plus son déplacement revêt une signification profonde, celle d’une reconfiguration des relations.
+
+Le transfert d’objets privés vers un espace culturel accessible à la communauté peut être considéré comme un exemple représentatif de ce que la recherche sur la culture matérielle appelle la « valeur réorganisée ». Ce n’est pas la fonction ou le prix de l’objet qui importe,  
+mais la manière dont les émotions et les souvenirs qu’il a longtemps véhiculés sont réinterprétés et amplifiés.
+
+Le lieu qu’elle a choisi n’est pas une galerie ou une plateforme commerciale, mais un espace culturel complexe où les habitants du quartier se rencontrent et communiquent naturellement. Ce n’est pas un lieu de consommation, mais un lieu d’échange culturel où se produisent des interactions immatérielles, où les émotions et le temps s’échangent. Dans cet espace, les objets passent d’un statut d’indicateurs économiques à celui de lieux culturels.
+
+Le processus par lequel les objets passent entre différentes mains n’est pas un simple changement de propriétaire, mais une forme de circulation relationnelle dans laquelle les émotions et les souvenirs condensés dans ces objets
+
+commencent à fonctionner à nouveau dans un autre système d’interprétation. Cette approche est profondément liée au transfert de sens entre les cultures qu’elle a accompli tout au long de sa vie en tant qu’artiste traductrice et activiste culturelle. Le déplacement des objets est une extension relationnelle qui transmet le récit suivant à un autre sujet, et une autre manière de redistribuer le sens. En d’autres termes, le processus de déplacement des objets consiste à redécrire leur vie et à les réorganiser dans de nouvelles relations.
+
+Au moment où il reçoit l’objet, le spectateur ou le futur pro priétaire devient le sujet qui écrit avec lui le récit suivant de cet objet.  
+Cela montre que le fait de se séparer d’un objet n’est pas un simple abandon, mais une transformation culturelle. Au cours de cette transformation, l’objet acquiert une nouvelle existence dans un autre lieu sans perdre son sens initial. C’est précisément là que réside la profondeur esthétique la plus importante de ce projet.
+
+## **6\. La vie continue toujours d’avancer**
+
+La vie en diaspora présuppose toujours une dispersion de l’identité. Dans une situation où il faut concilier ses origines et son présent sur la terre d’autrui, la mémoire ne se fixe pas en un récit linéaire. Elle oscille et se réorganise en fonction de la position sociale et du milieu de vie, et lorsque divers sentiments et expériences s’entrecroisent, les blessures de chacun se reflètent dans l’intérieur de l’autre et créent une nouvelle résonance. Nous appelons ce phénomène « reflet émotionnel réciproque ».
+
+Les souvenirs de Byeon Jeong-won existent sous une forme condensée, fruit de nombreuses années d’expérience. Certains objets ont fonctionné pour elle comme des mécanismes de régulation interne, qu’elle a elle-même invoqués pour retrouver son équilibre lorsque son identité était ébranlée.
+
+Les objets qui renferment son héritage culturel immatériel constituent également des archives personnelles qui relient entre elles les images dispersées de son identité pour former un récit cohérent. C’est pourquoi les objets de Byun Jeong-won sont le résultat de la pression des souvenirs figés au cours de sa vie qui remontent à la surface.
+
+En revanche, l’art de Park A-reum repose sur des origines totalement différentes. La violence institutionnelle de l’adoption lui a retiré la base de ses souvenirs sensoriels, ne lui laissant qu’un « point de départ où seuls les faits subsistent ». Elle connaît son parcours, mais celui-ci existe comme un vide dans sa vie, sans lien avec ses émotions.
+
+C’est précisément cette origine manquante qui forme la structure fondamentale de son travail. Ce vide, longtemps invisible, a pris une forme matérielle grâce à la découverte tardive des chaussures en caoutchouc qu’elle portait au moment de son adoption.
+
+Le fait qu’elle ait conservé ces chaussures dans une capsule en verre et les ait transférées dans une salle d’exposition n’était pas une tentative de reproduire des souvenirs disparus, mais plutôt un travail visant à transférer les résidus sensoriels qui subsistaient à la place de l’origine absente vers la surface sociale.
+
+Ces petites chaussures ne permettent pas de récupérer la mémoire perdue, mais elles deviennent une trace tactile qui remplace le temps qui ne peut être mémorisé. Ces fragments matériels sont traduits dans sa peinture par des indices, des lignes, des interstices et des marges, et s’assemblent de manière organique. Les chaussures contiennent les traces du point de départ, et la surface de la peinture révèle l’intervalle interne qui ne peut atteindre ces traces.
+
+Les deux éléments s’affrontent et s’imprègnent mutuellement, transformant la pression psychologique qui se forme en l’absence de mémoire en vibrations visuelles. C’est pourquoi la peinture de Park A-reum n’appartient pas au langage de la reproduction. Il ne s’agit pas d’une restitution de la mémoire, mais plutôt d’un acte performatif qui explore la tension émotionnelle née d’un lieu où la mémoire elle-même ne peut s’établir.
+
+La musique de Vincent Ahn part d’un lieu où il ne reste aucune trace d’origine. Pour lui, même le passé effacé n’existe pas. Il a grandi sans qu’aucun point de départ ne lui soit donné dès le départ, tel qu’un indice minimal indiquant son identité, un fragment de mémoire ou un signe de filiation. Ce vide n’est pas une transformation de la perte, mais un espace vierge primitif laissé par un point de départ inaccessible. Son univers musical repose précisément sur cet espace vierge.
+
+Il a construit un rythme qui le soutient à travers le contact matériel du piano et la résonance physique de la voix. Les motifs musicaux répétitifs ne sont pas une volonté d’aboutir à une composition achevée, mais une respiration que son for intérieur régule lui-même afin que le centre vide ne s’effondre pas. Sa musique est une émotion qui ne s’explique pas par le langage.
