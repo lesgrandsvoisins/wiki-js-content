@@ -1,5 +1,0 @@
-wiki-*.tar.gz
-/site/*
-!/site
-/work
-/.cache

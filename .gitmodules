@@ -1,3 +1,0 @@
-[submodule "submodules/wiki-content"]
-	path = submodules/wiki-content
-	url = ssh://forgejo@forgejo.roses.gv.je:3222/GV/wiki-content.git
